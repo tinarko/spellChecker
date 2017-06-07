@@ -47,3 +47,7 @@ people
 $ ./spellchecker sheeple
 NO SUGGESTION
 ```
+
+### START
+Run the program by typing into your cli:
+npm start
